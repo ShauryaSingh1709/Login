@@ -1,0 +1,87 @@
+
+body{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+    background-image: url("img2.jpg");
+    background-size: cover;
+}
+.content{
+height: 300px;
+width: 300px;
+background: transparent;
+margin-top: 50px;
+
+}
+h2{
+    margin-left: 100px ;
+    color: #ffff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+.form{
+   
+   width: 300px;
+   height: 200px;
+    
+}
+
+.text{
+  
+    
+    width: 300px;
+}
+.Links{
+   display: flex;
+   width: 300px;
+   height: 20px;
+   
+   margin-top: 10px;
+}
+
+.inputBox{
+    margin-top: 10px;
+    width: 300px;
+    border: 2px black solid;
+    border-radius: 7px;
+    overflow: hidden;
+}
+.inputBox2{
+   
+  margin-left: 100px;
+  margin-top: 20px;
+    
+
+}
+a{
+    color: #ffff;
+    overflow: hidden;
+    text-decoration: none;
+    margin-left: 10px;
+    
+}
+button{
+    height: 30px;
+    width: 70px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-left: 20px;
+    transition: margin-top 0.5s ease-in-out 0.2s;
+}
+button:hover{
+   
+    margin-top: 10px;
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2); /* add shadow */
+}
+.user{
+    width: 300px;
+    height: 20px;
+    overflow: hidden
+    
+}
+.forgot{
+    margin-left: 110px;
+}
