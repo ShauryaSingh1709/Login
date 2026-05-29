@@ -3,18 +3,18 @@
 A simple and responsive login page built using **HTML**, **CSS**.  
 This project is perfect for learning form design, styling, and basic frontend development.
 
-## 📌 Features
+##  Features
 - Responsive design for all devices
 - Stylish and modern UI
 - Smooth button hover effects
 - Easy to integrate into larger projects
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **HTML5** – Page structure
 - **CSS3** – Styling and layout
 
 Thank you for visting 
-💻 Made with ❤️
+Made with ❤️
 
 
 
